@@ -3,7 +3,7 @@ name: Bank-App Docker Container
 on: 
    push:
   #pull_requests:
-     branches: dev
+     branches: master
    
 jobs:
    Build_docker:
